@@ -23,3 +23,12 @@
 
 ### Лабораторна робота №8-9
 [Full-stack інтеграція: розробка UI на базі професійного бойлерплейту](https://github.com/johuirmbegytm/typeorm-express-typescript#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-8-9)
+
+### Лабораторна робота №9
+[Робота з Dockerfile та Docker Compose](https://github.com/johuirmbegytm/workshop-9.-Docker-Compose?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-9)
+
+### Лабораторна робота №10
+[Створення та запуск GitHub Actions workflow](https://github.com/johuirmbegytm/skills-hello-github-actions#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-10)
+
+### Лабораторна робота №11
+[Автоматизація збірки та публікації Docker-образів у GitHub Packages за допомогою GitHub Actions](https://github.com/johuirmbegytm/skills-publish-packages#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-11)
